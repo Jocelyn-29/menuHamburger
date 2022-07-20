@@ -1,0 +1,13 @@
+*, ::before, ::after {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.modif {
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 300;
+    background-color: aqua;
+    color: blue;
+}
